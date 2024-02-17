@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'boss-books'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_74681095DE4D4A8DA9909F0A9C6B3B0E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4EDB78686DCA4F529F046CD395896198 }}
           package: .
